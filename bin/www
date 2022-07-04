@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+// Web application server start up and port settings script
+
 /**
  * Module dependencies.
  */
